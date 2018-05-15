@@ -1,0 +1,14 @@
+{
+  "name": "gtb-token-contract",
+  "version": "0.1.1",
+  "description": "global token bet token contract",
+  "main": "index.js",
+  "repository": "",
+  "author": "ashimida6",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "truffle": "^4.1.8"
+  }
+}
