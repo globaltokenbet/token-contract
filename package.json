@@ -4,7 +4,7 @@
   "description": "global token bet token contract",
   "main": "index.js",
   "repository": "",
-  "author": "ashimida6",
+  "author": "vinco111",
   "license": "MIT",
   "private": true,
   "dependencies": {
